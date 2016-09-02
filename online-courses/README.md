@@ -34,4 +34,15 @@ If you don't see something you're looking for or have something you'd like to ad
 
 ## Self-paced Courses
 --------
-
+* [Free Code Camp](https://www.freecodecamp.com/)
+  * This is a favorite of a lot of web developers who started out very new to programming.
+  * Begin with simple HTML, CSS, and Javascript and slowly work your way towards building web applications and helping a non-profit organization build out their own application.
+  * This covers basic programming, algorithms, version control, web development with frameworks, application deployment, everything. It is _really_ comprehensive and **totally free**.
+* [The Odin Project](http://www.theodinproject.com/)
+  * This focuses on web development using Ruby on Rails, a popular web framework for the scripting language, Ruby.
+  * Ruby on Rails is used in a lot of large scale web applications (Airbnb, Github, Hulu, and many more).
+  * The curriculum is massive and extensive, but as with all of these you can go at your own pace outside of classes and work.
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+  * This is an easy introduction, even approachable by non-programmers, that starts from the very basics.
+  * An actually un-boring but really exciting exploration of using the scripting language Python to automate all kinds of tasks from spread sheet manipulation to web-crawling.
+  * Python is incredibly easy to pick up and start playing around with, and it is an incredibly powerful language if you get really into it (even used by data scientists for machine learning).
