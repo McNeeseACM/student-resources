@@ -29,6 +29,8 @@ Quick Links:
   * This contains links to directories of tutorials, articles, and podcasts centered around specific disciplines in computer science.
 * [Language Specific Resources](https://github.com/McNeeseACM/student-resources/tree/master/language-specific)
   * This contains links to directories of tutorials, articles, and podcasts centered around specific programming languages.
+* [Podcasts and Blogs](https://github.com/McNeeseACM/student-resources/tree/master/podcasts-and-blogs)
+  * Read and listen to what experienced and beginning programmers have to say about their own journeys and disciplines.
 * [Frequently Asked Questions (FAQ)](https://github.com/McNeeseACM/student-resources/tree/master/FAQ)
   * As questions are asked or issues arise, this will be filled with the most repeated of them. If you have a simple question, look here first!
 
