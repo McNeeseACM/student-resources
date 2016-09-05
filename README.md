@@ -15,6 +15,10 @@ There are some links below to collections of external links to plenty of resourc
 
 If you have any questions. [Email us directly](acm.of.mcneese@gmail.com), or feel free to [submit an issue to this repository.](https://github.com/McNeeseACM/student-resources/issues/new)
 
+### Student Quickstart
+--------
+[Click here to go to our quick-start page to find some material to start reading or practicing with!](https://github.com/McNeeseACM/student-resources/tree/master/student-quick-start)
+
 ### _Resources for Use by Students for Self Learning, Practice, and Contributing_
 --------
 
