@@ -23,12 +23,16 @@ If you have any questions. [Email us directly](acm.of.mcneese@gmail.com), or fee
 --------
 
 Quick Links:
-* [Student Programming Resources](https://github.com/McNeeseACM/student-resources/tree/master/competitive-programming)
+* [Programming Practice Resources](https://github.com/McNeeseACM/student-resources/tree/master/programming-practice)
   * This contains websites whose content is related to algorithms programming, competitive coding, and general programming exercises. 
-* [Self-teaching Resources](https://github.com/McNeeseACM/student-resources/tree/master/online-courses)
+* [Self-teaching Resources](https://github.com/McNeeseACM/student-resources/tree/master/self-teaching)
   * This is an expanding compendium of tutorial sites for all purposes. Version control, Web Frameworks, Database Management, Free Online Courses, Language Specific Resources, etc.
 * [Open Source Contribution Resources](https://github.com/McNeeseACM/student-resources/tree/master/open-source-contribution)
   * This contains links to websites dedicated to helping new programmers become acclimated to software development in the open world and getting a developer to a point where they are confident enough to contribute to Open Source Software.
+* [Discipline Specific Resources](https://github.com/McNeeseACM/student-resources/tree/master/discipline-specific)
+  * This contains links to directories of tutorials, articles, and podcasts centered around specific disciplines in computer science.
+* [Language Specific Resources](https://github.com/McNeeseACM/student-resources/tree/master/language-specific)
+  * This contains links to directories of tutorials, articles, and podcasts centered around specific programming languages.
 * [Frequently Asked Questions (FAQ)](https://github.com/McNeeseACM/student-resources/tree/master/FAQ)
   * As questions are asked or issues arise, this will be filled with the most repeated of them. If you have a simple question, look here first!
 

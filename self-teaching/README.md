@@ -8,6 +8,8 @@ There is a lot out there to learn with. If you have a language or a technology y
 
 If you don't see something you're looking for or have something you'd like to add, please contact us directly [via email](acm.of.mcneese@gmail.com) or [check out how you can contribute to this repository yourself]().
 
+#### If you're looking to practice with a specific language you already know, please head over to our [Programming Practice Resources](https://github.com/McNeeseACM/student-resources/tree/master/programming-practice). These courses and tutorials are far more general in scope.
+
 --------
 
 ## General Software Dev Resources
