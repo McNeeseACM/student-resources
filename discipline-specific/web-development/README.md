@@ -16,7 +16,7 @@ You're probably thinking: "I know these languages exist, but what is a 'Stack'? 
 
 Start with the basics. Forget frameworks. Forget deploying and scaling. Forget the literal sea of `Javascript` options.
 
-> Note: A lot of these tutorials require some form of `Web Hosting` service to get a website or app up and running. We heavily recommend `Amazon Web Services`' **free-tier** account with which you can create a simple, low-power, private server which you can install software on, interact with via FTP, and build your web app on your own platform. **[Here's where you can get started with that!](https://aws.amazon.com/start-now/)**
+> ### Note: A lot of these tutorials require some form of `Web Hosting` service to get a website or app up and running. We heavily recommend `Amazon Web Services`' **free-tier** account with which you can create a simple, low-power, private server which you can install software on, interact with via FTP, and build your web app on your own platform. **[Here's where you can get started with that!](https://aws.amazon.com/start-now/)**
 
 ## Starter Tutorials
 --------
