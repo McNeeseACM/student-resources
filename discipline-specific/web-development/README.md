@@ -14,29 +14,35 @@ There are a wide variety of competing languages and frameworks which dominate th
 
 You're probably thinking: "I know these languages exist, but what is a 'Stack'? Why are there so many options? How does deployment even work?"
 
-Aside from the "Stack"s, these other names are **frameworks**. Frameworks are large libraries which abstract away and deal with a large number of functions which are required for making web apps.
+Start with the basics. Forget frameworks. Forget deploying and scaling. Forget the literal sea of Javascript options.
+
+> Note: A lot of these tutorials require some form of `Web Hosting` service to get a website or app up and running. We heavily recommend `Amazon Web Services`' **free-tier** account with which you can create a simple, low-power, private server which you can install software on, interact with via FTP, and build your web app on your own platform. **[Here's where you can get started with that!](https://aws.amazon.com/start-now/)**
+
+## Starter Tutorials
+--------
+
+### Javascript
+--------
+
+[Mozilla Developer Network](https://developer.mozilla.org/en-US/) is a fantastic repository of knowledge based around Open-Source-Software.
+
+* **[MDN's Javascript Tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** cover everything from basic to advanced Javascript. It is also a fantastic reference to use for any questions you may have about how the language works.
+* **[MDN's Getting Started with the Web Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)** Takes you through building a simple, hosted site using HTML, CSS, and Javascript, though in relation to publishing the site it is up to the developer to decide--but they give you a lot of leads to find something that works. (See Amazon Web Services note above)
+
+
+### PHP
+--------
+(To be written soon!)
+
+
+
+## Frameworks
+--------
+
+Up top, aside from the "Stack"s, these other names are **frameworks**. Frameworks are large libraries which abstract away and deal with a large number of functions which are required for making web apps.
 
 These frameworks lay the foundation which makes building apps easy. All the heavy lifting like file input/output, serializing objects, interacting with databases, and more are **already written for you to use**.
 
 **You just have to learn how to use the frameworks to build what you want.** That's the beauty of it.
 
-Now, a framework builds your application front-end or back-end.
-
-The **front-end** is what happens on an application user's browser, be it on a personal computer or a mobile device. This is called the **Client**.
-
-The **back-end** is what happens on a remote server, which the Client interacts with. This is called, well, the **Server**.
-
-The technologies which make up the front and back end together are known as the **Stack**. It's why you often see developers who do both front-end and back-end work referred to as **Full-Stack Developers**.
-
-The tutorials and articles linked here will refer to front-end and back-end frameworks which you can use to build a "full" stack. I.E.: A working web app. Some tutorials linked will demonstrate how to deploy an application, whereas some may detail how to merely build the front or back of one.
-
-**All of these will be via free services and tutorials**, so feel no hesitation in jumping right in to something that sounds interesting to you!
-
-## Front-End Tutorials
---------
-
-## Back-End Tutorials
---------
-
-## Full-Stack Tutorials
---------
+> Keep in mind not to forget that this is all built on software you or I could write, and is prone to errors and will need debugging from time to time. **It is always important to remember the basics of programming and architecture.**
