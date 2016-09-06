@@ -14,7 +14,7 @@ There are a wide variety of competing languages and frameworks which dominate th
 
 You're probably thinking: "I know these languages exist, but what is a 'Stack'? Why are there so many options? How does deployment even work?"
 
-Start with the basics. Forget frameworks. Forget deploying and scaling. Forget the literal sea of Javascript options.
+Start with the basics. Forget frameworks. Forget deploying and scaling. Forget the literal sea of `Javascript` options.
 
 > Note: A lot of these tutorials require some form of `Web Hosting` service to get a website or app up and running. We heavily recommend `Amazon Web Services`' **free-tier** account with which you can create a simple, low-power, private server which you can install software on, interact with via FTP, and build your web app on your own platform. **[Here's where you can get started with that!](https://aws.amazon.com/start-now/)**
 
@@ -26,8 +26,8 @@ Start with the basics. Forget frameworks. Forget deploying and scaling. Forget t
 
 **[Mozilla Developer Network](https://developer.mozilla.org/en-US/) is a fantastic repository of knowledge based around Open-Source-Software.**
 
-* **[MDN's Javascript Tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** cover everything from basic to advanced Javascript. It is also a fantastic reference to use for any questions you may have about how the language works.
-* **[MDN's Getting Started with the Web Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)** Takes you through building a simple, hosted site using HTML, CSS, and Javascript, though in relation to publishing the site it is up to the developer to decide--but they give you a lot of leads to find something that works. (See Amazon Web Services note above)
+* **[MDN's Javascript Tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** cover everything from basic to advanced `Javascript`. **It is also a fantastic reference to use for any questions you may have about how the language works.**
+* **[MDN's Getting Started with the Web Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)** Takes you through building a simple, hosted site using `HTM`L, `CSS`, and `Javascript`, though in relation to publishing the site it is up to the developer to decide--but they give you a lot of leads to find something that works. _(See Amazon Web Services note above)_
 
 
 ### PHP
