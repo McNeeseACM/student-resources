@@ -14,9 +14,9 @@ There are a wide variety of competing languages and frameworks which dominate th
 
 You're probably thinking: "I know these languages exist, but what is a 'Stack'? Why are there so many options? How does deployment even work?"
 
-Start with the basics. Forget frameworks. Forget deploying and scaling. Forget the literal sea of `Javascript` options.
+Start with the basics. Take it slow, and it'll all come as you gain experience.
 
-> ### Note: A lot of these tutorials require some form of `Web Hosting` service to get a website or app up and running. We heavily recommend `Amazon Web Services`' **free-tier** account with which you can create a simple, low-power, private server which you can install software on, interact with via FTP, and build your web app on your own platform. **[Here's where you can get started with that!](https://aws.amazon.com/start-now/)**
+> #### Note: A lot of these tutorials require some form of `Web Hosting` service to get a website or app up and running. We heavily recommend `Amazon Web Services`' **free-tier** account with which you can create a simple, low-power, private server which you can install software on, interact with via FTP, and build your web app on your own platform. **[Here's where you can get started with that!](https://aws.amazon.com/start-now/)**
 
 ## Starter Tutorials
 --------
