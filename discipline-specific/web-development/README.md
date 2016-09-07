@@ -18,10 +18,10 @@ Start with the basics. Take it slow, and it'll all come as you gain experience.
 
 > #### Note: A lot of these tutorials require some form of `Web Hosting` service to get a website or app up and running. We heavily recommend `Amazon Web Services`' **free-tier** account with which you can create a simple, low-power, private server which you can install software on, interact with via FTP, and build your web app on your own platform. **[Here's where you can get started with that!](https://aws.amazon.com/start-now/)**
 
-## Starter Tutorials
+# Starter Tutorials
 --------
 
-### Javascript
+## Javascript
 --------
 
 **[Mozilla Developer Network](https://developer.mozilla.org/en-US/) is a fantastic repository of knowledge based around Open-Source-Software.**
@@ -36,23 +36,23 @@ Start with the basics. Take it slow, and it'll all come as you gain experience.
  * Traverse the DOM
  * Work with events and AJAX
 
-### PHP
+## PHP
 --------
 (To be written soon!)
 
 
-### Ruby
+## Ruby
 --------
 (To be written soon!)
 
 
-### Python
+## Python
 --------
 (To be written soon!)
 
 
 
-## Frameworks
+# Frameworks
 --------
 
 Up top, aside from the "Stack"s, these other names are what are called **frameworks**. Frameworks are large libraries which abstract away and deal with a large number of functions which are required for making web apps.
@@ -65,12 +65,12 @@ These frameworks lay the foundation which makes building apps easy. All the heav
 
 **Frameworks. Are. Not. Magic.**
 
-### Javascript Frameworks
+## Javascript Frameworks
 --------
 
 -------
 
-#### NodeJS
+### NodeJS
 --------
 > Okay, so NodeJS is actually more of an environment for Javascript than a framework. Fact of the matter is, NodeJS is the backbone of most other frameworks out there. AngularJS, React, Backbone, EmberJS...all use node on some level, or at least the Node Package Manager, otherwise known as `npm`.
 
@@ -88,7 +88,7 @@ These frameworks lay the foundation which makes building apps easy. All the heav
   * This file is how you configure dependencies and building of a NodeJS package on a basic level.
   * This interactive cheat sheet can come in handy!
 
-#### AngularJS
+### AngularJS
 --------
 AngularJS is a frontend framework which breaks everything down into `components` which make up a web application. It is maintained by `Google`, and is a staple in many, many modern web applications.
 
@@ -96,21 +96,21 @@ AngularJS is a frontend framework which breaks everything down into `components`
 * **[The Official AngularJS 2 Tutorial](https://angular.io/docs/ts/latest/tutorial/index.html)**, **Tour of Heroes**, builds an application with `Microsoft`'s preferred Javascript variant, Typescript. **This is a tutorial reserved for more intermediate users of Javascript** who are familiar with things like `npm`, `Grunt`, `Babel`, and are interested in a more reliable and testable variation on the popular web language.
 
 
-### PHP Frameworks
+## PHP Frameworks
 --------
 
 --------
 (To be written soon!)
 
 
-### Ruby Frameworks
+## Ruby Frameworks
 --------
 
 --------
 (To be written soon!)
 
 
-### Python Frameworks
+## Python Frameworks
 --------
 
 --------
