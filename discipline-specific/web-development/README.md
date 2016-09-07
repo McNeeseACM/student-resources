@@ -68,7 +68,6 @@ These frameworks lay the foundation which makes building apps easy. All the heav
 ## Javascript Frameworks
 --------
 
--------
 
 ### NodeJS
 --------
@@ -98,20 +97,14 @@ AngularJS is a frontend framework which breaks everything down into `components`
 
 ## PHP Frameworks
 --------
-
---------
 (To be written soon!)
 
 
 ## Ruby Frameworks
 --------
-
---------
 (To be written soon!)
 
 
 ## Python Frameworks
---------
-
 --------
 (To be written soon!)
