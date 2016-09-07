@@ -92,7 +92,7 @@ These frameworks lay the foundation which makes building apps easy. All the heav
 AngularJS is a frontend framework which breaks everything down into `components` which make up a web application. It is maintained by `Google`, and is a staple in many, many modern web applications.
 
 * **[The Official AngularJS 1 Tutorial](https://docs.angularjs.org/tutorial)** is a great place to start. You build a simple application while learning all the fundamentals of AngularJS applications.
-* **[The Official AngularJS 2 Tutorial](https://angular.io/docs/ts/latest/tutorial/index.html)**, **Tour of Heroes**, builds an application with `Microsoft`'s preferred Javascript variant, Typescript. **This is a tutorial reserved for more intermediate users of Javascript** who are familiar with things like `npm`, `Grunt`, `Babel`, and are interested in a more reliable and testable variation on the popular web language.
+* **[The Official AngularJS 2 Tutorial](https://angular.io/docs/ts/latest/tutorial/index.html)**, **Tour of Heroes**, builds an application with `Microsoft`'s preferred Javascript variant, `Typescript`. **This is a tutorial reserved for more intermediate users of Javascript** who are familiar with things like `npm`, `Grunt`, `Babel`, and are interested in a more reliable and testable variation on the popular web language.
 
 
 ## PHP Frameworks
