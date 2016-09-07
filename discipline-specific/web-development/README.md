@@ -49,6 +49,24 @@ These frameworks lay the foundation which makes building apps easy. All the heav
 
 **Frameworks. Are. Not. Magic.**
 
+### NodeJS
+--------
+> Okay, so NodeJS is actually more of an environment for Javascript than a framework. Fact of the matter is, NodeJS is the backbone of most other frameworks out there. AngularJS, React, Backbone, EmberJS...all use node on some level, or at least the Node Package Manager, otherwise known as `npm`.
+
+* **[Felix's Node.js Beginner's Guide](http://nodeguide.com/beginner.html)**
+  * Felix gets you through installing NodeJS as well as building a simple server and module.
+  * Pretty good place to start.
+* **[Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)**
+  * Shows you how to build an  API (Application Programming Interface) that is [RESTful](http://stackoverflow.com/questions/671118/what-exactly-is-restful-programming) in nature
+  * Express is what the majority of backend developers use for NodeJS applications.
+  * Express makes serving up pages, JSON, and more very easy by tying it to "routes", which are based on the URL structure of the web app.
+* **[Getting Started with NPM - Official](https://docs.npmjs.com/getting-started/what-is-npm)**
+  * This is a pretty detailed introduction to using the Node Package Manager
+  * Going forward with Javascript web development, this is going to be used everywhere.
+* **[Interactive package.json Cheat Sheet](http://browsenpm.org/package.json)**
+  * This file is how you configure dependencies and building of a NodeJS package on a basic level.
+  * This interactive cheat sheet can come in handy!
+
 ### AngularJS
 --------
 AngularJS is a frontend framework which breaks everything down into `components` which make up a web application. It is maintained by `Google`, and is a staple in many, many modern web applications.
