@@ -1,6 +1,8 @@
 # MSU ACM Student Resources
 --------
 
+## **[McNeese ACM Slack Signup Form](https://docs.google.com/forms/u/0/d/1JruxO15ZF1Pf-i3w2ht7W-nkzgjnQCJEcq98XxKowgM)**
+
 ### **Where do I go from Here?**
 --------
 This is the question we all ask ourselves starting out in Computer Science.
