@@ -21,17 +21,17 @@ If you have any questions. [Email us directly](acm.of.mcneese@gmail.com), or fee
 --------
 
 Quick Links:
-* [Programming Practice Resources](https://github.com/McNeeseACM/student-resources/tree/master/programming-practice)
+* [Programming Practice Resources](https://github.com/McNeeseACM/student-resources/tree/master/programming-practice) (Coming Soon)
   * This contains websites whose content is related to algorithms programming, competitive coding, and general programming exercises. 
 * [Self-teaching Resources](https://github.com/McNeeseACM/student-resources/tree/master/self-teaching)
   * This is an expanding compendium of tutorial sites for all purposes. Version control, Web Frameworks, Database Management, Free Online Courses, Language Specific Resources, etc.
-* [Open Source Contribution Resources](https://github.com/McNeeseACM/student-resources/tree/master/open-source-contribution)
+* [Open Source Contribution Resources](https://github.com/McNeeseACM/student-resources/tree/master/open-source-contribution) (Coming Soon)
   * This contains links to websites dedicated to helping new programmers become acclimated to software development in the open world and getting a developer to a point where they are confident enough to contribute to Open Source Software.
-* [Discipline Specific Resources](https://github.com/McNeeseACM/student-resources/tree/master/discipline-specific)
+* [Discipline Specific Resources](https://github.com/McNeeseACM/student-resources/tree/master/discipline-specific) (More Coming Soon, only Web Dev via Javascript thus far)
   * This contains links to directories of tutorials, articles, and podcasts centered around specific disciplines in computer science.
-* [Language Specific Resources](https://github.com/McNeeseACM/student-resources/tree/master/language-specific)
+* [Language Specific Resources](https://github.com/McNeeseACM/student-resources/tree/master/language-specific) (Coming Soon)
   * This contains links to directories of tutorials, articles, and podcasts centered around specific programming languages.
-* [Podcasts and Blogs](https://github.com/McNeeseACM/student-resources/tree/master/podcasts-and-blogs)
+* [Podcasts and Blogs](https://github.com/McNeeseACM/student-resources/tree/master/podcasts-and-blogs) (A lot more Coming Soon)
   * Read and listen to what experienced and beginning programmers have to say about their own journeys and disciplines.
 * [Frequently Asked Questions (FAQ)](https://github.com/McNeeseACM/student-resources/tree/master/FAQ)
   * As questions are asked or issues arise, this will be filled with the most repeated of them. If you have a simple question, look here first!
@@ -51,4 +51,4 @@ As well as adhering to McNeese's policies, we recognize that as a subsidiary cha
 You want to add something to this? Awesome!
 The more resources our students have, the better.
 
-This functions just as any other repository on github, and therefore any changes one wishes to make are submitted via a `Pull Request`. Our [Pull Request Tutorial]() uses changes to this repository as an example, so you can check that out to see how you can contribute!
+This functions just as any other repository on github, and therefore any changes one wishes to make are submitted via a `Pull Request`. Our [Pull Request Tutorial]() (Coming Soon) uses changes to this repository as an example, so you can check that out to see how you can contribute!
